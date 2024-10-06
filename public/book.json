@@ -1,0 +1,102 @@
+[
+    {
+      "id": 1,
+      "name": "The Grand Palace Hotel",
+      "location": "New York, USA",
+      "img": "https://i.ibb.co.com/wdwS3CS/hottel.jpg",
+      "quality": "5-star",
+      "rating": 4.9,
+      "price_per_night": 350,
+      "amenities": ["Free Wi-Fi", "Pool", "Gym", "Spa"]
+    },
+    {
+      "id": 2,
+      "name": "Seaside Resort",
+      "location": "Malibu, USA",
+      "img": "https://i.ibb.co.com/wdwS3CS/hottel.jpg",
+      "quality": "4-star",
+      "rating": 4.7,
+      "price_per_night": 280,
+      "amenities": ["Beach Access", "Free Breakfast", "Parking", "Pet-Friendly"]
+    },
+    {
+      "id": 3,
+      "name": "Mountain Escape",
+      "location": "Aspen, USA",
+      "img": "https://i.ibb.co.com/wdwS3CS/hottel.jpg",
+      "quality": "5-star",
+      "rating": 4.8,
+      "price_per_night": 400,
+      "amenities": ["Ski Access", "Fireplace", "Hot Tub", "Spa"]
+    },
+    {
+      "id": 4,
+      "name": "Urban Boutique Hotel",
+      "location": "Tokyo, Japan",
+      "img": "https://i.ibb.co.com/wdwS3CS/hottel.jpg",
+      "quality": "3-star",
+      "rating": 4.5,
+      "price_per_night": 150,
+      "amenities": ["Free Wi-Fi", "Gym", "Business Center", "Rooftop Bar"]
+    },
+    {
+      "id": 5,
+      "name": "Tropical Paradise Resort",
+      "location": "Bali, Indonesia",
+      "img": "https://i.ibb.co.com/wdwS3CS/hottel.jpg",
+      "quality": "5-star",
+      "rating": 4.9,
+      "price_per_night": 500,
+      "amenities": ["Private Beach", "Infinity Pool", "Free Breakfast", "Spa"]
+    },
+    {
+        "id": 6,
+        "name": "Tropical Paradise Resort",
+        "location": "Bali, Indonesia",
+        "img": "https://i.ibb.co.com/wdwS3CS/hottel.jpg",
+        "quality": "5-star",
+        "rating": 4.9,
+        "price_per_night": 500,
+        "amenities": ["Private Beach", "Infinity Pool", "Free Breakfast", "Spa"]
+      },
+      {
+        "id": 7,
+        "name": "Tropical Paradise Resort",
+        "location": "Bali, Indonesia",
+        "img": "https://i.ibb.co.com/wdwS3CS/hottel.jpg",
+        "quality": "5-star",
+        "rating": 4.9,
+        "price_per_night": 500,
+        "amenities": ["Private Beach", "Infinity Pool", "Free Breakfast", "Spa"]
+      },
+      {
+        "id": 8,
+        "name": "Tropical Paradise Resort",
+        "location": "Bali, Indonesia",
+        "img": "https://i.ibb.co.com/wdwS3CS/hottel.jpg",
+        "quality": "5-star",
+        "rating": 4.9,
+        "price_per_night": 500,
+        "amenities": ["Private Beach", "Infinity Pool", "Free Breakfast", "Spa"]
+      },
+      {
+        "id": 9,
+        "name": "Tropical Paradise Resort",
+        "location": "Bali, Indonesia",
+        "img": "https://i.ibb.co.com/wdwS3CS/hottel.jpg",
+        "quality": "5-star",
+        "rating": 4.9,
+        "price_per_night": 500,
+        "amenities": ["Private Beach", "Infinity Pool", "Free Breakfast", "Spa"]
+      },
+      {
+        "id": 10,
+        "name": "Tropical Paradise Resort",
+        "location": "Bali, Indonesia",
+        "img": "https://i.ibb.co.com/wdwS3CS/hottel.jpg",
+        "quality": "5-star",
+        "rating": 4.9,
+        "price_per_night": 500,
+        "amenities": ["Private Beach", "Infinity Pool", "Free Breakfast", "Spa"]
+      }
+  ]
