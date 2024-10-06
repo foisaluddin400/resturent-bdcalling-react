@@ -3,11 +3,11 @@ import Heroaddimg from '../../../public/img/addimg.png'
 export const Addrun = () => {
     return (
         <div className='container'>
-            <div className='grid grid-cols-2'>
+            <div className='grid lg:grid-cols-2'>
 
                 <div>
                     <div className="py-[100px]">
-                        <h2 className='text-5xl font-bold'>Good <span className='text-green-700'>booking</span>, great <br /> memories</h2>
+                        <h2 className='lg:text-5xl text-3xl font-bold'>Good <span className='text-green-700'>booking</span>, great <br /> memories</h2>
                         <p className='text-lg pt-7'>Enable diners to customize their booking by requesting a specific table location or view.</p>
                         <label className="mt-6 rounded-full bg-white input input-bordered flex items-center gap-2">
                             <input type="text" className="grow" placeholder="Search" />
@@ -25,7 +25,7 @@ export const Addrun = () => {
                     </div>
                 </div>
                 <div>
-                    <div className=" p-10 ">
+                    <div className=" lg:p-10 ">
                         <img className='' src={Heroaddimg} alt="" />
                     </div>
                 </div>

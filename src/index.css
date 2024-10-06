@@ -7,10 +7,10 @@
     color: black;
 }
 .container {
-    width: 90%; /* Container width */
+    width: 100%; /* Container width */
     max-width: 1200px; /* Max width of the container */
     margin: 0 auto; /* Center the container */
-    padding: 20px; /* Add some padding inside the container */
+    padding:5px; /* Add some padding inside the container */
 
     
 }
