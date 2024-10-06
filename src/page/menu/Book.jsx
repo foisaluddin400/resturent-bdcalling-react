@@ -37,7 +37,7 @@ export const Book = () => {
           </div>
         </div>
 
-        <div className="grid grid-cols-4">
+        <div className="grid lg:grid-cols-4">
           {
             book.map((books) =>
 

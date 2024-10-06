@@ -14,7 +14,7 @@ export const Recipe = () => {
     return (
         <div className="container">
             <h2 className="text-2xl font-bold pl-3 pb-3">Explore <span className="text-green-700">Yommy Recipe</span></h2>
-            <div className="grid grid-cols-4">
+            <div className="grid lg:grid-cols-4">
                 {
                     recipe.slice(0, slice).map((item) =>
 

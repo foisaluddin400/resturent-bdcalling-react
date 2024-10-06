@@ -11,7 +11,7 @@ export const MenuInfo = () => {
 
     return (
         <div className='my-11'>
-            <div className="container grid grid-cols-2 border border-green-700 rounded-xl">
+            <div className="container grid lg:grid-cols-2 border border-green-700 rounded-xl">
                 <img
                     src={cart.img}
                     alt="Album" />

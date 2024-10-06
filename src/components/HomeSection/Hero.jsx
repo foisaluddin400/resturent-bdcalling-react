@@ -3,12 +3,12 @@ import Heroimg from '../../../public/img/hero.png'
 export const Hero = () => {
     return (
         <div className='container'>
-            <div className='grid grid-cols-2'>
+            <div className='grid lg:grid-cols-2'>
 
                 <div>
-                    <div className="py-[100px]">
-                        <h2 className='text-5xl font-bold'>Good <span className='text-green-700'>booking</span>, great <br /> memories</h2>
-                        <p className='text-lg pt-7'>Enable diners to customize their booking by requesting a specific table location or view.</p>
+                    <div className="lg:py-[100px]">
+                        <h2 className='lg:text-5xl text-3xl font-bold'>Good <span className='text-green-700'>booking</span>, great <br /> memories</h2>
+                        <p className='text-lg pt-4'>Enable diners to customize their booking by requesting a specific table location or view.</p>
                         <label className="mt-6 rounded-full bg-white input input-bordered flex items-center gap-2">
                             <input type="text" className="grow" placeholder="Search" />
                             <svg  

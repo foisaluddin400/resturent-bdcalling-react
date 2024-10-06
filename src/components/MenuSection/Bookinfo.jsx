@@ -8,7 +8,7 @@ export const Bookinfo = () => {
     const int = parseInt(id)
     const bookcart = bookloader.find( cart => cart.id === int);
   return (
-    <div className='container grid grid-cols-6'>
+    <div className='container grid m-2 lg:grid-cols-6'>
             <div className='col-span-4 m-3 '>
                 <div className='shadow-xl p-2'>
                     <img src={bookcart.img} alt="" />

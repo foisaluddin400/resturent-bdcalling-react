@@ -4,8 +4,8 @@ import Log from '../../public/img/grup.png'
 import Logo from '../../public/img/Logo1.png'
 export const Login = () => {
     return (
-        <div className='py-11 '> 
-            <div className='grid grid-cols-2 container rounded-xl border  border-lime-700'>
+        <div className='py-11 m-4'> 
+            <div className='grid lg:grid-cols-2  container rounded-xl border  border-lime-700'>
                 <div className='m-5'>
                     <img className='w-[400px] my-11' src={Log} alt="" />
 

@@ -31,7 +31,7 @@ export const Navbar = () => {
                                 </svg>
                             </label>
                         </div>
-                        <div className="mx-2  px-2"><a className="btn btn-ghost text-xl"><img className="" src={Logo} alt="" /></a></div>
+                        <div className="mx-2  px-2"><a className=" btn-ghost text-xl"><img className="" src={Logo} alt="" /></a></div>
                         <div className="hidden flex-none lg:block">
                             <ul className="menu menu-horizontal">
                                 {/* Navbar menu content here */}
@@ -139,12 +139,14 @@ export const Navbar = () => {
 
 
                 </div>
-                <div className="drawer-side drawer drawer-end">
+                <div className="drawer-side drawer drawer-end z-40">
                     <label htmlFor="my-drawer-3" aria-label="close sidebar" className="drawer-overlay"></label>
-                    <ul className="menu bg-base-200 min-h-full w-80 p-4">
+                    <ul className="menu bg-white min-h-full w-80 p-4">
                         {/* Sidebar content here */}
-                        <li><a>Sidebar Item 1</a></li>
-                        <li><a>Sidebar Item 2</a></li>
+                        <Link to='/'><li><a>Home</a></li></Link>
+                        <Link to='/sitbook'><li><a>Booking</a></li></Link>
+                        <Link to='/food'><li><a>Food</a></li></Link>
+                        
                     </ul>
                 </div>
             </div>
